@@ -1,10 +1,6 @@
 // Code your solutions in this file
 
 
-const names = ["Nick","Yetla","Benji"]
-
-const event = "Halloween"
-
 const writeCards = (arr,event) => {
     const messages = []
     for(let i = 0; i < arr.length;i++) {
